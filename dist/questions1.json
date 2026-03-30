@@ -1,10 +1,10 @@
 [
   {
-    "name": "Easy Questions",
+    "name": "Stupid Questions",
     "questions": [
       {
         "value": 100,
-        "question": "This is an answer",
+        "question": "This is an answer1",
         "answer": "What is the question?",
         "answered": false
       },
