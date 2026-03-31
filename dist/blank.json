@@ -1,213 +1,213 @@
 [
   {
-    "name": "",
+    "name": "General Engineering History",
     "questions": [
       {
         "value": 100,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "This variable is commonly described as the derivative of velocity with respect to time",
+        "answer": "What is Acceleration?",
+        "answered": false
       },
       {
         "value": 200,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "Which one of Newton's laws described the relationship between force, mass, and acceleration?",
+        "answer": "What is Newton's Second Law?",
+        "answered": false
       },
       {
         "value": 300,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "What is approximately the speed of light?",
+        "answer": "What is 3.0 * 10^8 m/s?",
+        "answered": false
       },
       {
         "value": 400,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "What equation states that the total mechanical energy of an incompressible fluid stays constant in a streamline flow",
+        "answer": "What is Bernoulli’s Equation?",
+        "answered": false
       },
       {
         "value": 500,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "This is an answer",
+        "answer": "Who is Katherine Johnson, Dorothy Vaughn, Mary Jackson?",
+        "answered": false
       }
     ]
   },
   {
-    "name": "",
+    "name": "Electrical engineering (electrical & electronic engineering)",
     "questions": [
       {
         "value": 100,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "A circuit component that reduces current flow",
+        "answer": "What is a Resistor?",
+        "answered": false
       },
       {
         "value": 200,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "The fundamental unit of digital data, represented as a 0 or 1",
+        "answer": "What is a Bit?",
+        "answered": false
       },
       {
         "value": 300,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "Digital circuit that performs the math on a computer",
+        "answer": "What is an Arithmetic/Logic Unit (ALU)?",
+        "answered": false
       },
       {
         "value": 400,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "An electrical device used to block or amplify an electric current",
+        "answer": "What is a Transistor?",
+        "answered": false
       },
       {
         "value": 500,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "Who is credited with the creation of the blue LED light?",
+        "answer": "Who is Shuji Nakamura?",
+        "answered": false
       }
     ]
   },
   {
-    "name": "",
+    "name": "Aerospace",
     "questions": [
       {
         "value": 100,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "What are people that control airplanes called",
+        "answer": "Who are pilots?",
+        "answered": false
       },
       {
         "value": 200,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "Who flew the very first airplane in human history",
+        "answer": "Who were the Wright brothers?",
+        "answered": false
       },
       {
         "value": 300,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "This sound is produced when an object exceeds the speed of sound.",
+        "answer": "What is a sonic boom?",
+        "answered": false
       },
       {
         "value": 400,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "What is the name of the THIRD person on the moon?",
+        "answer": "Who was Charles “Pete” Conrad Jr.?",
+        "answered": false
       },
       {
         "value": 500,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "In this long-period longitudinal oscillation, an aircraft exchanges potential energy for kinetic energy as it pitches up and down while maintaining a nearly constant angle of attack.",
+        "answer": "What is Phugoid Motion?",
+        "answered": false
       }
     ]
   }
 ,
   {
-    "name": "",
+    "name": "Computer Science",
     "questions": [
       {
         "value": 100,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "What hardware component is considered the “brain” of a computer?",
+        "answer": "What is the Central Processing Unit/CPU?",
+        "answered": false
       },
       {
         "value": 200,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "What data structure uses the FIFO for data organization?",
+        "answer": "What is a Queue?",
+        "answered": false
       },
       {
         "value": 300,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "What CS concept allows the calling of the same function in itself until a condition is met?",
+        "answer": "What is Recursion?",
+        "answered": false
       },
       {
         "value": 400,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "self-balancing binary search tree uses a 'color' property for each node",
+        "answer": "What is Red-Black Tree?",
+        "answered": false
       },
       {
         "value": 500,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "In Big O notation, this is the tightest upper bound for the Merge Sort algorithm in the worst-case scenario.",
+        "answer": "What is O(n log n)?",
+        "answered": false
       }
     ]
   },
   {
-    "name": "",
+    "name": "IS/DATA SCIENCE",
     "questions": [
       {
         "value": 100,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "This programming language is widely used in data science?",
+        "answer": "What is Python or R?",
+        "answered": false
       },
       {
         "value": 200,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "This language is used to query databases?",
+        "answer": "What is SQL?",
+        "answered": false
       },
       {
         "value": 300,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "This file type is commonly used to store tabular data with commas?",
+        "answer": "What is a CSV file?",
+        "answered": false
       },
       {
         "value": 400,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "This SQL command is used to retrieve data from a database?",
+        "answer": "What is SELECT?",
+        "answered": false
       },
       {
         "value": 500,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "This storage method allows access to data over the internet instead of local machines?",
+        "answer": "What is cloud computing?",
+        "answered": false
       }
     ]
   }
 ,
   {
-    "name": "",
+    "name": "Cyber",
     "questions": [
       {
         "value": 100,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "This refers to protecting systems and data from unauthorized access?",
+        "answer": "What is cybersecurity?",
+        "answered": false
       },
       {
         "value": 200,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "This type of attack tricks users into giving away personal information through fake emails or messages?",
+        "answer": "What is phishing?",
+        "answered": false
       },
       {
         "value": 300,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "This network security system monitors and controls incoming and outgoing traffic?",
+        "answer": "What is a firewall?",
+        "answered": false
       },
       {
         "value": 400,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "This type of attack floods a system with traffic to make it unavailable?",
+        "answer": "What is a DDoS attack?",
+        "answered": false
       },
       {
         "value": 500,
-        "question": "",
-        "answer": "",
-        "answered": true
+        "question": "This type of software is designed to damage, disrupt, or gain unauthorized access to a computer system?",
+        "answer": "What is malware?",
+        "answered": false
       }
     ]
   }
